@@ -1,0 +1,8 @@
+langchain>=0.3
+langgraph>=0.2
+langchain-ollama
+langchain-google-genai
+streamlit
+mlflow
+python-dotenv
+faiss-cpu
