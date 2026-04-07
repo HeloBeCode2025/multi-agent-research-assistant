@@ -6,3 +6,4 @@ streamlit
 mlflow
 python-dotenv
 faiss-cpu
+jupyter
