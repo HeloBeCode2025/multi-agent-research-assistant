@@ -7,3 +7,7 @@ mlflow
 python-dotenv
 faiss-cpu
 jupyter
+langchain-community 
+langchain-core
+chromadb
+pypdf

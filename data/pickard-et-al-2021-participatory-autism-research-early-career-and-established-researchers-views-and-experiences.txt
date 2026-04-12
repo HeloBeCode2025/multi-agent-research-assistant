@@ -1,0 +1,1225 @@
+1019594
+research-article2021
+
+AUT0010.1177/13623613211019594AutismPickard et al.
+
+Original Article
+
+Participatory autism research:
+Early career and established
+researchers’ views and experiences
+
+Autism
+2022, Vol. 26(1) 75­–87
+© The Author(s) 2021
+Article reuse guidelines:
+sagepub.com/journals-permissions
+https://doi.org/10.1177/13623613211019594
+DOI:
+10.1177/13623613211019594
+journals.sagepub.com/home/aut
+
+Hannah Pickard1, Elizabeth Pellicano2 ,
+Jacquiline den Houting2,3 and Laura Crane4
+
+Abstract
+Despite more autism research taking place than ever before, there is a disconnect between the current landscape of autism
+research and what autistic people and their allies want from research. While participatory research has been proposed as
+a potential solution, we know little about how researchers (particularly, early career researchers) employ this approach.
+We interviewed 25 researchers (14 early career and 11 established researchers) about their views and experiences of
+participatory autism research. Through reflexive thematic analysis of interview and focus group data, we identified three
+themes. First, our participants emphasised the flexible nature of participatory research, and the many forms it can take; yet
+noted that this flexibility could cause confusion. Second, our participants highlighted the importance of building relationships
+with research partners, while commenting on the challenges around effective communication and working with diverse
+groups of people who may have limited research experience. Finally, participants described the challenges of working within
+academic environments that are not conducive to participatory research (e.g. due to limited time, funding and support). We
+discuss these issues with regard to changes required at both an individual and systemic level, ensuring that efforts are made
+to meaningfully involve autistic people and their allies in all stages of the research process.
+Lay abstract
+‘Participatory autism research’ refers to ways of involving autistic people and their allies (e.g. family members) in making
+decisions about research. These decisions can include what research gets done, how it gets done and how research findings
+are used. While there is more and more interest in participatory autism research, we know little about how researchers
+at different stages of their careers use this approach. To find out more, we discussed these issues with 25 researchers.
+Fourteen of these were at an early stage of their careers, and 11 were more senior researchers. We spoke to people in
+individual interviews or in groups. We then used a technique called thematic analysis to analyse our data, which involved
+us looking for common topics or ‘themes’ discussed by our participants. What did we find? Our participants told us that
+participatory autism research was a flexible approach, meaning that autistic people can be involved in research in many
+different ways. While people viewed this flexibility in a positive way, it also caused some confusion about what does or does
+not ‘count’ as participatory research. Our participants also spoke about how important it was to build relationships with
+those involved in their research, but they also said it could be difficult to communicate well with diverse groups of people
+who may not have much experience of research. Finally, our participants said it was hard to do participatory research when
+there was not much time, funding or support available to researchers. In this article, we discuss these findings, focusing on
+what needs to change to ensure that autistic people and their allies are meaningfully involved in autism research.
+Keywords
+autism, co-production, early career, engagement, participatory research, researchers
+
+1
+
+King’s College London, UK
+Macquarie University, Australia
+3
+Cooperative Research Centre for Living with Autism, Australia
+4
+University College London, UK
+2
+
+Corresponding author:
+Laura Crane, Centre for Research in Autism and Education (CRAE),
+UCL Institute of Education, University College London, London
+WC1H 0NU, UK.
+Email: L.Crane@ucl.ac.uk
+
+76
+Over the past few decades, an increasing amount of autism
+research has been funded and published (Goldstein et al.,
+2015; Office of Autism Research Coordination, National
+Institute of Mental Health, on behalf of the Interagency
+Autism Coordinating Committee, 2019; Pellicano et al.,
+(2014a, 2014b)). Despite the opportunities that this may
+bring to autistic people and their allies, there is a striking
+disconnect between the research being conducted and the
+research that the community wants to see conducted (den
+Houting & Pellicano, 2019; Pellicano et al., (2014a,
+2014b)). Consequently, autistic people and their allies have
+– quite rightly – been critical of autism research: research
+tends to be guided by the interests of researchers and
+funders rather than autistic people and their allies (Cusack
+& Sterry, 2016), and there is often a lack of involvement
+from autistic people in the research process (Pellicano
+et al.,, 2014b). With increasing calls for autistic people to
+be ‘at the centre of the autism conversation’ (Ne’eman,
+2011), participatory research has been proposed as one
+potential solution (Chown et al., 2017; Fletcher-Watson
+et al., 2018; Nicolaidis et al., 2011; Parsons et al., 2013;
+Pellicano & Stears, 2011; Raymaker & Nicolaidis, 2013).
+Participatory research refers to ‘incorporating the views
+of autistic people and their allies about what research gets
+done, how it is done and how it is implemented’ (FletcherWatson et al., 2018, p. 1). A key principle of participatory
+research is an acknowledgement of the power imbalance
+between researchers and community partners (Gaventa &
+Cornwall, 2008; Nelson & Wright, 1995). As conceptualised in Arnstein’s (1969) ladder of participation, power
+varies across different types of participation: from no
+power (e.g. therapy), through tokenism (e.g. consultation),
+to shared power (e.g. partnership). A move towards levelling the power balance in research has been evidenced by
+increasing interest in approaches such as citizen science,
+crowdsourcing, co-production, participant-led research
+and community-based participatory research (Wallerstein
+et al., 2017; Woolley et al., 2016). Irrespective of the specific terminology used, or specific methodological
+approaches taken, participation – beyond being a research
+participant – can take many forms, with the distribution of
+power in the decision-making process being key (see also
+Hickey, 2018; Tritter & McCallum, 2006).
+Collaborative ways of working can improve the quality,
+relevance and impact of resulting research (Forsythe et al.,
+2019). Yet, as Redman et al., (2021) explain, there are several factors that can complicate attempts to adopt collaborative practices. First, they emphasise the individual,
+context-dependent nature of sharing power in research, as
+what works in one project may not work in another.
+Second, they discuss the need for the development of trusting relationships, based on honesty and effective communication, for fostering genuine co-produced research.
+Third, they highlight practical requirements such as equipping researchers with the necessary skills, but also ensuring that universities value and incentivise participatory
+
+Autism 26(1)
+practices. Finally, they call for greater investment to support the complex and long-term partnerships needed for
+effective and genuine collaborative research (i.e. co-production, as opposed to faux production). With growing
+interest in participatory research, Redman et al., explain
+that participatory practices will likely evolve even further
+over the next few years.
+Despite participatory research having a long tradition in
+other fields (e.g. Beresford & Croft, 1993; Kiernan, 1999;
+Macaulay, 2017; Minkler & Wallerstein, 2011; Ottmann
+et al., 2011), such practices have been slow to reach the
+autism field. Pellicano and colleagues (2014a, 2014b)
+sought to understand researcher and community members’
+experiences of participation in research at three levels: dissemination (informing community members about
+research), dialogue (consulting with community members
+about research) and partnership (collaborating with community members as research partners). Their data revealed
+that while researchers often reported efforts to engage
+autistic people and their allies in research at different levels, this was not always perceived to be the case: participants felt that there were very few opportunities to engage
+in research beyond dissemination and dialogue Pellicano
+et al., (2014a, 2014b). Furthermore, all stakeholder groups
+commented on how active research partnerships, whereby
+decision-making power is shared between autistic and
+research communities, were rare (Fletcher-Watson et al.,
+2018; Pellicano et al., (2014a, 2014b)); when they do
+occur, the details of such partnerships are rarely reported
+in published articles (Jivraj et al., 2014).
+To support autism researchers in making their work
+more participatory, best practice guidelines have been proposed (Fletcher-Watson et al., 2018; Nicolaidis et al.,
+2019; Pellicano et al., 2017) and several innovative participatory research projects (Crane et al., 2019; Nicolaidis
+et al., 2013; Parsons et al., 2013; Pellicano et al., 2020;
+Vincent, 2019) and partnerships (e.g. https://aaspire.org/,
+https://participatoryautismresearch.wordpress.com/) have
+been shared. Yet, participatory practices are not commonplace in autism research and criticisms levelled at this
+approach may stem, at least in part, from a lack of familiarity with implementing these practices. For example,
+researchers have reported that they are often apprehensive
+about involving autistic people in research, expressing
+concerns that it could either dilute the scientific rigour of
+the research (see Pellicano et al., 2014b) or that it will only
+involve ‘vocal minorities’ that do not speak for the community as a whole (see den Houting et al., 2021; FletcherWatson, 2017). These concerns have also been highlighted
+outside the autism research field, along with broader challenges for researchers around managing relationships and
+time investments (Oliver et al., 2019; Redman et al., 2021,
+but also see Williams et al., 2020, for reflections).
+Despite the various opportunities and challenges inherent in participatory research, to our knowledge, only two
+other research studies (aside from Pellicano et al., 2014a,
+
+Pickard et al.
+discussed above) have specifically examined autism
+researchers’ views regarding community participation in
+research. den Houting et al., (2021) examined participatory research in the context of Australian research projects
+funded by the Autism CRC (https://www.autismcrc.com.
+au/). Using an online survey, they gathered quantitative
+and qualitative data from 64 academic researchers and 15
+community members, all with research experience.
+Encouragingly, their sample of academic researchers was
+overwhelmingly supportive of participatory research and
+had positive experiences of employing participatory
+research practices. Yet, the authors reported that the academic researchers lacked a genuine understanding of participatory research and held views that could obstruct the
+implementation of successful participatory research (e.g.
+with academic partners retaining power throughout the
+research process). Furthermore, community partners discussed the limited opportunities for involvement in the
+research process, which were largely confined to consulting on research projects (as opposed to, for example, collaborative partnerships). den Houting et al., (2021)
+suggested that both academic and community partners
+would benefit from further training to develop a better
+understanding of participatory research, and to aid in the
+implementation of participatory practices in autism
+research.
+In a related study, Hollin and Pearce (2019) interviewed
+20 academics (seven postdoctoral researchers and 13
+researchers with permanent academic positions, e.g. lecturers/professors) about their understanding and experiences of stakeholder and public engagement in autism
+research. From these data, the researchers identified three
+themes. First, participants felt that disagreements existed
+between stakeholders in the autism field due to the heterogeneity of autism. This was thought to result in difficulties
+generalising between different autistic voices, or from one
+autistic voice to the broader community. Second, participants felt that conflicts arose between the research and
+autistic communities due to the socio-communicative difficulties of autistic people, which they felt limited their
+ability to form relationships with researchers. Third,
+despite these challenges, participants recognised valuable
+traits in autistic people that they felt could benefit research
+(e.g. to enhance discussion of the social and ethical consequences of their findings). Taken together, the authors
+called for greater efforts to promote dialogue and engagement between researchers and autistic people, calling for
+autism-specific modes of engagement with research (e.g.
+online spaces to promote discussions).
+Both studies provide clues as to why the autism research
+field has been slow to adopt participatory practices.
+Specifically, researchers’ comments highlight the pathologising, deficit-based approach that has permeated autism
+research for decades (see Fletcher-Watson & Happe, 2019,
+for an overview). Even if implicitly, these attitudes may
+
+77
+result in difficulties perceiving autistic people as equal
+partners who deserve shared power in the research process. This is further complicated by an apparent tension in
+researchers’ responses. For example, researchers emphasised the need to diversify the pool of autistic people who
+contribute to research studies, but also appeared to expect
+all autistic stakeholders to provide consistent input and/or
+reach consensus.
+While these studies provide a helpful starting point,
+they either focused on public engagement in a broad sense
+(i.e. not participatory research specifically), only elicited
+the views of certain subgroups of the research community
+(e.g. established, but not early career, researchers), or used
+methods that did not allow for more in-depth discussion to
+be generated (e.g. an online survey rather than interviews).
+The aim of the current research was to build on these existing studies by gathering views and experiences of participatory research from both early career and established
+autism researchers, via in-depth interviews and focus
+groups. Including both these groups enabled us to gain an
+understanding of the challenges and opportunities participatory research poses across different career stages, to
+examine areas of convergence and divergence. It also
+allowed us to examine potential differences in how the
+groups viewed and used participatory research, which was
+important given that established researchers (ESRs) and
+early career researchers (ECRs) may hold different levels
+of power in the research process (e.g. with ESRs potentially holding more power than those earlier in their
+careers) (Muhammad et al., 2015). Finally, it enabled us to
+identify strategies for supporting participatory research,
+tailored to specific career stages and needs. Our specific
+aims were to determine (1) researchers’ views of participatory research and its perceived benefits and challenges; (2)
+researchers’ experiences of participatory research, reflecting on any barriers and facilitators and (3) researchers’
+support or training needs, particularly for those at an early
+stage of their careers.
+
+Methods
+Participants
+Two groups of participants were recruited: ECRs and
+ESRs. A different recruitment strategy, and data collection
+methodology, was used for each participant group. These
+strategies were chosen based on our research teams’ experience as members of these groups. With regard to ESRs,
+we felt that they would be less likely to volunteer for the
+research without personal invitations, that it would be
+challenging to coordinate the diaries of busy academics for
+focus groups, and that participants might speak more
+openly in individual interviews. Conversely, we felt that
+ECRs might struggle to discuss participatory research in
+individual interviews (since many potential participants
+
+78
+were likely to have relatively limited practical experience
+of participatory research). We also felt that ECRs would be
+forthcoming to more open calls for research participation
+(as opposed to the need for individual invitations).
+ECRs were eligible to take part if they: (1) worked
+within the autism research field and (2) were less than
+1 year into their first permanent academic position (fulltime equivalent). They were recruited via social media and
+word-of-mouth. Fourteen ECRs (10 women and 4 men)
+took part (mean (M) age = 31.21 years, standard deviation
+(SD) = 7.59, range = 22–51 years). Eight were full-time
+PhD students, three were postdoctoral researchers, two
+were research assistants/administrators and one was a visiting lecturer.
+ESRs (i.e. at least 1 year into a permanent academic
+position) were recruited via email, with invitations sent
+out to researchers in the United Kingdom at recognised
+university institutions (see: https://www.gov.uk/) who
+worked in the autism research field (identified by searching for academics who listed autism as a research interest). A total of 76 personal invitations were sent, along
+with nine invitations to broader autism research groups.
+We specifically requested participation from those with
+participatory research experience. In total, 21 (29%) ESRs
+expressed an interest in taking part (55 did not respond)
+and 11 (14%) completed an interview (3 male, 8 female;
+M age = 43.1 years, SD = 8.46, range = 30–56 years). Of
+the ESRs, four were lecturers (equivalent to assistant professor), four were senior lecturers/readers (equivalent to
+associate professor) and three were professors. ECRs
+were largely based in/around London, whereas ESRs were
+dispersed across the United Kingdom. Almost all participants reported being of White ethnic background (ECRs
+93% and ESRs 100%). Two participants identified as
+autistic (one ECR and one ESR).
+
+Procedure
+Ethical approval was obtained via the Research Ethics
+Committee at UCL Institute of Education (REC991).
+ECRs took part in one of two in-person focus groups
+(n = 11) or a one-to-one interview (n = 3; one via video call,
+one via phone and one in person). ESRs participated in a
+one-to-one semi-structured interview over video call.
+Focus groups were chosen as the most appropriate method
+of data collection for ECRs to help facilitate discussion
+among a group with potentially limited experience of participatory research. Individual interviews were used when
+ECRs were keen to participate but unable to attend the
+focus groups. Individual interviews were used for all
+ESRs, as they were less able to come together for focus
+groups and were anticipated to have in-depth participatory
+research experiences to share. An ECR (H.P.) conducted
+all focus groups and interviews, which ensured consistency and that the ECRs felt comfortable disclosing their
+
+Autism 26(1)
+views and experiences. Prior to the focus groups and interviews, all researchers completed a consent form and demographic questionnaire that elicited information about
+gender identity, age, ethnicity and academic roles. During
+the focus groups, the facilitator ensured that the group discussion remained on topic and provided intermittent summaries to the group, particularly to check the interpretation
+of key discussion points. Focus groups ranged from 62 to
+74 min (M = 68 min), while one-to-one interviews ranged
+from 36 to 75 min (M = 53 min).
+
+Materials
+Focus group and interview schedules were created by three
+members of the research team H.P., E.P. and L.C. based on
+their own experiences as ECRs/ESRs (see Appendix 1).
+ECR focus group schedules covered: (1) definitions and
+views of participatory research; (2) the benefits and challenges of taking part in participatory research; (3) experiences of participatory research and any barriers faced and
+(4) training and support needs. The interview schedules for
+ECRs followed a similar overall format. For ESRs, interviews covered the following topics: (1) definitions and
+views of participatory research; (2) a brief overview of
+their experiences of participatory research; (3) in-depth
+examples of participatory research and (4) advice for
+ECRs. Both the focus group and individual interview
+schedules followed a similar format. Specifically, a series
+of primary (open-ended) questions were always asked, followed by secondary (open-ended) questions that were
+used to probe on specific points where elaboration and/or
+clarification was needed.
+
+Community involvement
+While one of the research team members identifies as an
+autistic ECR, autistic community members from outside of
+academia were not involved in producing this work.
+
+Data analysis
+Focus groups and interviews were analysed using reflective thematic analysis as described by Braun and Clarke
+(2006, 2013, 2019). Analysis was led by one ECR (H.P.)
+and one ESR (L.C.), neither of whom identify as autistic,
+but both engage in and advocate for participatory autism
+research practices. Analyses involved identifying semantic
+meanings in the data set following an inductive approach,
+whereby themes were generated in response to interview
+data, rather than trying to accommodate data within predefined themes or research questions (Braun & Clarke,
+2013). H.P. and L.C. recursively proceeded through Braun
+and Clarke’s six stages of (1) familiarisation, (2) coding,
+(3) generating themes, (4) reviewing themes, (5) defining
+and naming themes and (6) writing up. Focus groups and
+
+Pickard et al.
+
+79
+
+Figure 1. Participatory research views and experiences from ECRs and ESRs: themes and sub-themes.
+
+interviews for ECRs were analysed together, as the same
+schedule was used across both formats. Data from ECRs
+and ESRs were coded separately. During the process of
+data familiarisation and coding (i.e. stages 1 and 2), similarities were noted, so data from ECRs and ESRs were
+merged prior to theme development (i.e. prior to stage 3).
+While developing themes, we considered whether the findings applied to ECRs, ESRs or both. Themes were
+reviewed (separated or merged where required) following
+several detailed discussions with the other members of the
+research team: J.d.H. (an autistic ECR) and E.P. (an ESR
+who does not identify as autistic), both of whom engage in
+and advocate for participatory research practices.
+Following these discussions, the final themes and subthemes were confirmed.
+
+Results
+Three themes were identified from the interview and
+focus group data: (1) the flexible nature of participatory
+autism research, (2) building bridges is hard work and
+(3) participatory research is undervalued in academia
+(see Figure 1). Quotes from individual ECRs and ESRs
+are indicated using numbers (1–9) and letters (A–K),
+respectively.
+
+Theme 1: the flexible nature of participatory
+autism research
+Sub-theme 1: autism research, practice and advocacy are shifting. Researchers emphasised the effectiveness of autistic
+community members campaigning for their voices to be
+heard in research: ‘I think [autistic] people feel a lot more
+empowered because they’re able to get together in communities and, therefore, they’re able to have the confidence, maybe, to pose questions to the research community’
+(ESR-C). Online platforms were seen as a particularly
+powerful way for the autistic community to vocalise their
+views in this regard: ‘through online channels, they are
+something of a coherent group, there’s lots of communication going on about various issues that affect them’ (ECR8). Researchers reported that participatory research
+practices were ‘massive at the moment’ (ESR-E); noting
+that this was potentially ‘part of a broader autistic rights
+movement, which is in itself part of a bigger socio-political agenda about expanding our definitions of civil rights
+to include the disability movement’ (ESR-F).
+Interest in participatory autism research was felt to have
+emerged recently and gradually: ‘I think autism research
+has been very slow, mostly because it’s been driven so
+strongly by a medical model of disability rather than a
+
+80
+
+Autism 26(1)
+
+social model, and, unsurprisingly, that has inhibited wider
+participation at a much earlier stage’ (ESR-B). Yet,
+researchers also commented on the slow uptake of participatory practices in autism research, relative to other
+research fields:
+
+to consult with community members regarding their preferred level of participation in research: ‘We can’t expect
+or assume that people all want to be involved or lead
+research . . . people want to be involved on their own
+terms’ (ESR-B).
+
+autism researchers think they have so many brilliant new
+ideas but participatory research has been around for decades,
+and I would say autism research has been exceptionally slow,
+as it often is, in getting smart to stuff that’s going on with this.
+(ESR-B)
+
+Sub-theme 3: participatory research terminology is unclear.
+While researchers acknowledged that participation is ‘a
+very broad concept . . .’ (ESR-D), they discussed the lack
+of clarity in commonly used definitions of participatory
+autism research: ‘it’s one of those things that people
+define in different ways, and the level of participation can
+vary’ (ESR-J). Participants perceived the language commonly used to describe participatory autism research to be
+vague or ill-defined: ‘words like “meaningful” and
+“engagement” are not black or white terms’ (ESR-G). The
+vague use of common terminology used to describe participatory research contributed towards a lack of confidence surrounding research practices, both from ECRs
+and ESRs. As a potential solution, ECRs reported that
+having ‘a standardised definition or guidelines for participatory research’ would be ‘really helpful’, since ‘I don’t
+think I would know how to go about having a fully participatory study at this point’ (ECR-1); ‘a big challenge for
+me was to think how can I start to do participatory
+research’ (ECR-6).
+
+Researchers added that ‘we’re very far away from any
+sort of model of participatory research that is acceptable in
+autism research’ (ECR-8).
+Sub-theme 2: participatory research takes many forms.
+Researchers discussed the need for research to include
+some form of autistic involvement but had diverse views
+regarding levels of involvement that were ‘appropriate’.
+While some suggested that community members should be
+‘fully involved, start to finish’ (ECR-5), others felt that the
+level of involvement could ‘vary quite a lot from just having people involved as part of an expert group that might
+be advising on the research, right through to autistic people defining research questions’ (ESR-J). Researchers
+emphasised the need to tailor involvement to the specific
+research project: ‘I don’t think it’s always appropriate that
+an autistic person can decide the full research design of a
+project design – I think that [participation] needs to be
+individualised’ (ESR-J). Furthermore, researchers mentioned that community members having full control of a
+research project was often not a viable option:
+I know there’s a lot of debates and discussions about
+participant-led research, where the participants actually take
+control of the research . . . which is interesting, but I’m not
+sure you can ever fully achieve that if you have an agenda,
+and all research has an agenda. (ESR-D)
+
+Flexibility was emphasised, noting that the level of
+involvement should be driven by discussions with community members, rather than striving to meet arbitrary standards of what participatory autism research ‘should’ be:
+I had at the beginning quite a dogmatic view of what
+participatory research was and that it should be people who
+engaged in all parts of the process etc. I think probably now
+I’m a bit less dogmatic and I think it’s about being involved in
+as much or as little as they want to be. (ESR-A)
+
+Discussions regarding involvement were seen as essential on a study-by-study basis: ‘You can’t assume that
+every project is going to be the same or that you can apply
+the same things, you have to work that out with the people
+that you’re working with’ (ESR-A). ‘Levels of participatory research’ (ECR-5) were emphasised, as was the need
+
+Theme 2: building bridges is hard work
+Sub-theme 1: relationships are key. Researchers discussed
+how ‘you have to build bridges with other people’ (ECR7) to make connections, build trust and incorporate a range
+of views into research. Yet, researchers highlighted the
+‘costs’ of relationship building in terms of time:
+if you want to do it properly, you have to invest time and
+effort in working with these communities, and helping them,
+and doing things with them that simply isn’t of benefit to you
+in research terms, but actually builds a relationship and a
+rapport, and getting to know them better. (ESR-D)
+
+Despite the costs, relationship building was viewed as a
+key component of participatory research:
+that took a lot of work in terms of how we communicated to
+how we enabled their participation, the things that they
+wanted to bring to that, but at the heart of that was an
+extremely powerful interpersonal connection or relationship
+with people for whom participation had never been very
+meaningful. (ESR-B)
+
+Sub-theme 2: communication can be challenging. Researchers mentioned ‘the challenges surrounding the different
+ways in which autistic and neurotypical people communicate’ (ECR-8) and how communication with autistic people requires experience:
+
+Pickard et al.
+communicating with autistic people is not the same as
+communicating with people who are neurotypical; it’s a huge
+spectrum condition, so you can’t have experience with, say,
+three children who’ve got autism, and say that you know
+autism, because you don’t! I think experience counts for
+everything. (ESR-D)
+
+Differences in communication styles were often
+reported to lead to misinterpretations: ‘sometimes in discussions there can be a degree of heat to them, or what we
+can perceive as heat when you’re reading on a computer
+screen that isn’t actually there’ (ECR-8); ‘you often do find
+that after about an hour of talking, you realise you are both
+meaning the same thing! That is one of the challenges and
+why things take so long’ (ESR-K).
+Researchers discussed the challenges around communicating with audiences unfamiliar with research:
+if you are involving people that have no experience of
+research, then there is a massive language barrier to get over. . .
+it can be very challenging to word things and present things in
+a way that is accessible to people that have never come into
+contact with academia. (ECR-7)
+
+Researchers commented on the difficulty of getting the
+balance right when deciding the amount of information to
+communicate when working with people who may not
+(yet) be research literate:
+I don’t want to give someone only a partial picture of what the
+project is going to be about or what the findings were or what
+the methods are or what the psychological theory is but then
+equally, if they’re not an expert, I can’t – it’s not fair to just
+bombard them with a bunch of technical stuff, pages and
+pages of writing. (ESR-F)
+
+Researchers highlighted the need to meet the communication needs of everyone involved:
+if you’re genuine about inclusion and participation that takes
+a lot of time and that’s about making sure that we’re
+communicating in a range of ways, communicating in the
+right ways, taking time to step back and explain and to work
+with people in different ways in order to have meaningful
+engagement and input (ESR-B).
+
+Broader benefits were also emphasised: ‘learning how
+to communicate with autistic people better had sculpted
+how I communicate with everybody, like with everybody
+all the time’ (ECR-8).
+Sub-theme 3: the need for diverse community stakeholders. Researchers commented on the need to look beyond
+the ‘core group’ of autistic people who often contribute to
+research, to find those who may have differing
+perspectives:
+
+81
+The easy thing to do would be to just involve people that we
+know . . . autistic people who we know have got quite a bit of
+experience of participatory research. I think we need to look
+to involve people who may find it difficult to participate, but
+want to contribute, and want to be part of it. (ESR-J)
+
+Yet, researchers commented on the challenge of eliciting too diverse a set of views from community stakeholders, expressing concerns about how this could impact on
+decision-making processes in research: ‘people do have
+different views and how do you then, as a team, decide on
+how to move forward with those different views because
+sometimes those views are absolutely diametrically
+opposed to each other’ (ESR-B). Researchers also highlighted the barriers around connecting and representing the
+views of people within the autistic community who may
+not be as vocal and easy to reach:
+Again, this is the problem with finding diversity, right? You’re
+only seeing people who are willing to collaborate and do stuff,
+which many people on the spectrum don’t want to do. So, how
+do you find those people? Because you can’t just send an
+email! You can’t just send a request, or an invite. That’s why
+you need to be in the field meeting people. (ECR-9)
+
+ECRs suggested that large organisations could help
+support this process:
+collaboration with organisations that have contact with lots of
+different types of people that are on the spectrum would help,
+because then you would know that you are getting a much
+broader range of people that are taking part in it. (ECR-7)
+
+Theme 3: participatory research is undervalued
+in academia
+Researchers noted the positive impact that participatory
+practices can have within research: ‘reducing that gap
+between what is being printed and what is actually helping
+people, which is a very big gap at the moment’ (ECR-9).
+They commented on the value of involvement at both a personal level: ‘The benefits to me personally, are constantly
+learning and improving my understanding’ (ESR-I); and a
+professional level: ‘By giving some control over to [autistic
+people], you learn things that, if you had completely directed
+the research yourself, you would never have got’ (ESR-D).
+Researchers mentioned that participatory practices had direct
+benefits on their research, providing insights that would not
+otherwise have been realised. For example, they mentioned
+that their research is held to a high standard, that it provided
+opportunities for two-way learning, and that it was better
+informed by the lived experience of the autistic community:
+So of course our research is better informed by including a
+wider range of views and we would hope therefore that
+
+82
+
+Autism 26(1)
+whatever we’re doing is more aligned with and better suited
+for meeting the needs of the people who are at the centre of
+our research. (ESR-B)
+
+Nonetheless, researchers noted several challenges that
+make it difficult to co-produce research within academia.
+The restrictions and demands of academia were discussed
+as key barriers:
+the academic context expects certain things from you, you
+know, papers, grants, PhD supervision, teaching, you know,
+they’re so essential to what you’re doing that trying to make
+participatory research top of your personal to do list is very,
+very hard. (ESR-F)
+
+In addition, two challenges were noted by our ECRs
+specifically. First, the absence of support from senior academics was reported as a key challenge for ECRs: ‘it can
+be really hard to do [participatory research] if the more
+senior people in your research group don’t value that, if
+they don’t see it as a priority’ (ECR-3). Second, ECRs felt
+that their lack of seniority within the research environment
+often constrained their ability to employ participatory
+research practices, particularly when their views did not
+align with those of their broader research team: ‘I can
+come in with all these good ideas, but if they’ve already
+got the project well underway and it’s their idea, there’s
+not much I can do’ (ECR-8) and ‘I don’t feel I have much
+control over whether the research is participatory’
+(ECR-2).
+Time constraints inherent in pressurised academic contexts were seen as a significant challenge to conducting
+participatory autism research: ‘[participatory research] is
+hard work and it takes a lot of time, and from the research
+perspective that’s time that isn’t necessarily valued in
+terms of the things that progress your career’ (ECR-8).
+Some ECRs felt that time constraints limited their ability
+to involve autistic people and their allies during the early
+stages of their research career:
+while you’re doing a PhD there is a lot of pressure to do as
+much as possible, produce as many results as possible, publish
+as soon and often as possible and it doesn’t necessarily give
+you the time to say, ‘I want to do a focus group1 or, I want to
+spend a bit of time reflecting on people’s responses to the
+study, before I write it up’ (ECR-3).
+
+ESRs expressed similar views: ‘a challenge for us as
+researchers in doing participatory research is that everything takes longer, so if you’re genuine about inclusion
+and participation that takes a lot of time’ (ESR-B). Both
+groups also commented on the lack of funding resources
+available within academic structures to involve autistic
+people and their allies in research:
+how does someone like me get to be able to pay people for
+their time properly, like get . . . little research assistant
+
+contracts for somebody who might help out with stuff, and not
+just be doing it on their own goodwill (ECR-8).
+
+As an ECR, a lack of control was thought to contribute
+towards funding constraints: ‘I think particularly with PhD
+projects or if you’re a post-doc, projects where you’re
+coming in and the funding has already been assigned . . .
+There is no money built in to pay for people to come to a
+focus group’ (ECR-3). Some researchers also feared it was
+somewhat of a luxury, only accessible to those in certain
+research groups or institutions: ‘I think it’s quite a privileged thing to be able to do participatory research’
+(ESR-C).
+
+Discussion
+It is perhaps unsurprising that researchers who engage
+with, or have an interest in, participatory research are
+enthusiastic about such practices. Yet, conducting interviews and focus groups with researchers at different stages
+of their careers presented a nuanced picture. Even though
+researchers wanted to make their research participatory
+and felt that these methods afforded benefits to their work,
+researchers at all stages of their careers reported experiencing considerable challenges in incorporating meaningful participatory research practices within their work.
+Specifically, we identified three themes relating to participatory autism research practices across both ECRs’ and
+ESRs’ data. First, researchers emphasised the shift towards
+a participatory research framework, which they perceived
+to be largely driven by autistic advocacy and broader societal changes. However, they felt there was an inherent lack
+of clarity around the terminology used to define participatory research, which led to confusion among ECRs in particular. Second, researchers identified tensions around key
+features of participatory autism research. In one example,
+they emphasised the importance of building bridges with
+autistic people and their allies, but also commented on the
+challenges around communication that could hinder such
+relationships. In another example, researchers called for
+greater diversity of community partners in research,
+yet also highlighted the difficulties around incorporating
+diverse views. Finally, researchers spoke about the challenges of working within an academic environment that
+was not conducive to participatory research, emphasising
+issues associated with time, funding and support. In what
+follows, we discuss these findings with regard to existing
+literature, while also highlighting crucial areas where
+change is needed.
+The researchers in this study expressed a range of
+views around how autistic people could or should be
+involved in research. Despite stressing the need for flexibility when conducting participatory research, ECRs also
+expressed a need for clear guidance on what constituted
+‘genuine’ participatory research. In line with den Houting
+et al., (2021), we suggest more in-depth, ongoing training
+
+Pickard et al.
+on the underlying philosophy of participatory autism
+research, with the recognition that ‘participatory experience is not simply a method or set of methodologies, it is
+a mind-set and an attitude about people’ (Sanders, 2002,
+p. 1). Teams with considerable experience in participatory
+research have made available resources that address both
+the philosophical underpinnings and real-world practicalities of participatory autism research (e.g. Nicolaidis
+et al., 2019). There is, however, a paucity of such
+resources, at least in the field of autism research, and
+more examples of high-quality participatory research are
+needed to guide those new to participatory research. One
+means of addressing this issue may be to encourage more
+explicit reporting of participatory practices in published
+work (see Jivraj et al., 2014; Nicolaidis et al., 2019; Price
+et al., 2018), as opposed to only reporting the outcomes of
+the research. Importantly, these examples should not be
+treated as templates for how participatory research projects must be conducted, since what works well in one
+project may not work well in another (Pellicano & Stears,
+2011; Redman et al., 2021). However, these examples
+should serve as useful exemplars of how things could be
+done, providing those new to participatory autism research
+greater insight into the considerations and practicalities of
+this kind of research.
+In any training on or reporting of participatory research,
+it is essential to highlight the power dynamics involved. It
+was notable that discussions of power were lacking among
+our sample of researchers, yet power is ‘one of the founding principles of participatory research’ (Rose, 2018, p.
+765; see also Arnstein, 1969). This finding mirrors recent
+work by den Houting et al., (2021), who surveyed academics and community members about participatory autism
+research in Australia. Community members reported a
+stark lack of power sharing throughout the research process and felt that researchers tended to remain in positions
+of control. Taken together, these findings suggest that –
+although there is an overall willingness to involve autistic
+people in research – considerable efforts need to be made
+to ensure that power sharing is genuine and not tokenistic
+(Pellicano et al., 2014a), with training for researchers
+needed to manage expectations around this (den Houting
+et al., 2021).
+One way that expectations around power can be managed is through open discussions between researchers and
+community members. Yet, our participants highlighted
+challenges around communication, noting that differences
+in communication styles can often lead to misinterpretations, which can be time-consuming. This finding aligns
+with the work of Hollin and Pearce (2019), whose interviews with academic researchers also identified communication difficulties as a major barrier to community
+engagement in research. Our findings, however, diverge
+from those of Hollin and Pearce’s, as our participants
+tended to describe communication difficulties as arising
+from differences between autistic and non-autistic people’s communication styles, whereas Hollin and Pearce’s
+
+83
+participants placed the onus squarely on community members. Milton (2012) has reframed long-standing notions of
+an autistic deficit in social interaction within the Double
+Empathy Problem. This theory emphasises the reciprocal
+nature of communication highlighting that, although autistic people may lack insight into the social world of nonautistic people, the reverse is also true. Based on our
+findings, the Double Empathy Problem may certainly be
+evident in relation to participatory autism research. We
+therefore suggest that researchers need to make efforts to
+develop their interactional expertise and increase trust and
+communication within research–community member
+interactions, rather than expecting autistic people to change
+to fit in with academic norms.
+In this regard, our results can be contextualised within
+the broader literature on ableism in academia (BottemaBeutel et al., 2021). Disabled scholars have long noted that
+there is a push towards normalising and homogenising the
+way in which academic research is conducted (see Brown
+& Leigh, 2020, for discussion). This ableist bias may be
+particularly pronounced within the field of autism research,
+with deficit-focused accounts having driven autism
+research and practice for decades (e.g. Fletcher-Watson &
+Happe, 2019).
+While the Double Empathy Problem and ableism in
+academia are two potential explanations for our findings
+regarding communication breakdowns within research
+teams, communication breakdowns did not always seem
+linked to differences in neurology. Rather, they appeared
+to be associated with more fundamental challenges with
+involving lay people in the research process, particularly
+around their often-limited research literacy; challenges
+also noted outside the autism field (e.g. Holland-Hart
+et al., 2019). In any academic-community partnership,
+whether participants are autistic or not, it is essential to
+have ‘clear communication and . . . robust relationships’
+(Common Cause Research, 2018). This may be a useful
+focus of training for researchers and community members
+prior to entering research partnerships.
+Our participants expressed much uncertainty regarding
+the amount of information they should share with autistic
+community members; that is, striking the right balance
+between giving the community enough information to be
+able to contribute meaningfully, but not overburdening
+them. Given that effective partnership is a two-way
+endeavour, a greater focus on relationship building and
+communication between researchers and community
+members may help reduce uncertainties around information sharing. Furthermore, educational opportunities may
+help to alleviate these uncertainties. In particular, training
+programmes could aim to extend beyond individual projects and build broader capacity to support participatory
+research, ensuring that researchers and community members are equipped with the skills needed to engage with
+and participate in participatory research (e.g. Autism CRC;
+https://www.autismcrc.com.au/sylvia-rodger-academy/
+research-program).
+
+84
+Beyond communication barriers, our researchers raised
+concerns regarding a perceived lack of diversity among the
+autistic people who contributed to research, noting that a
+‘core group’ of people were consistently involved. den
+Houting et al., (2021), who observed the same phenomenon when surveying researchers in Australia, stressed the
+need for researchers to move away from equating participatory involvement in research with mere research participation. Echoing this call, we advocate for a move towards
+careful consideration of what each person brings to the
+research team (i.e. why they have been selected in the first
+place), and ensuring that people are involved in projects
+because of their experiential expertise relevant to each
+individual research study (Little et al., 2002). Indeed, this
+process should not be alien to researchers given that academic partners are usually selected to be involved in projects based on their skills and expertise, rather than how
+representative they are (Bozeman & Gaughan, 2011).
+Arguably, the shift towards participatory research that
+our participants identified is no longer optional, with community engagement increasingly being mandated by
+funders and other organisations (e.g. National Institute
+Health Research Involve; www.invo.org.uk). However,
+our data suggest that academic researchers are not fully
+prepared for this shift. For example, our participants
+explained how the time investment needed for participatory research seemed incompatible with the demands of
+academic life; a particular concern for ECRs (see also
+Southby, 2017). While the efforts of researchers are
+increasing, with academics across many fields recognising
+and sharing the benefits of community engagement in
+research (e.g. Israel et al., 1998), this shift needs to be
+accompanied by systemic change to ensure that participatory practices can be accommodated within the current
+research frameworks. This systemic change needs to
+include recognition of the costs, time and other commitments inherent to participatory research, to ensure that
+these practices are supported within academic structures.
+Reflecting on the views of ECRs and ESRs, across focus
+groups and interviews, there was considerable overlap.
+Despite clear differences in their experiences of using participatory research practices, our findings suggested that, to
+some extent, ESRs and ECRs noted similar challenges.
+Support for participatory research (e.g. training in communication and relationship building) should therefore be
+implemented for researchers at all career stages. Greater
+support for ECRs, however, is particularly essential. Our
+sample of ECRs discussed several intrinsic barriers (e.g.
+limited knowledge of how to implement participatory practices) and extrinsic barriers (e.g. a lack of support from senior academics and not being involved in high-level
+decision-making) hindering their participatory research
+efforts. We therefore call for better education and support
+for ECRs by embedding participatory practices within the
+culture of research and giving ECRs the necessary support
+to make their work participatory (e.g. supporting ECRs to
+
+Autism 26(1)
+build wider community connections). While this requires
+top-down directives, ECRs also need to start taking positive action, akin to the drive for reproducible research practices led by early career researchers in the United Kingdom.
+In this regard, Orben (2019) notes,
+We need all those who care about better research to stay
+invested, and this will not happen by telling the next
+generation of scientists to just sit back and hope. Early-career
+researchers do not need to wait passively for coveted
+improvements. We can create communities and push for
+bottom-up change. (p. 465)
+
+We advocate for the same approach to participatory
+autism research.
+While this study was one of the first to explore the
+views and experiences of ECRs and ESRs with respect to
+participatory autism research, it is not without its limitations. First, this study was advertised to those who had
+been involved with (or, for ECRs, who had an interest in)
+participatory autism research. Future research should elicit
+the views of researchers who do not engage in participatory research to understand the reasons underlying this (i.e.
+do they want to make their work more participatory or are
+they unable to do so?). Second, while all researchers had
+experience of and/or interest in participatory research, we
+did not collect data on their level of community engagement (i.e. whether they were novices or experts, or how
+successful their engagement had been). Also, we did not
+define participatory research for our participants. Instead,
+we encouraged participants to share the experiences that
+they felt were participatory. Therefore, it was unclear
+whether some experiences shared were genuinely participatory in nature. Third, our sample included researchers
+only. As researcher and community perceptions of participatory research may diverge Pellicano et al., (2014a,
+2014b), in future it will be important to triangulate these
+data with community perceptions (den Houting et al.,
+2021). Fourth, most of our participants were non-autistic
+autism researchers. Further research may benefit from specifically examining autistic autism researchers’ experiences of participatory research, given their unique position
+as both academics and members of the autistic community.
+Fifth, our sampling strategy and data collection procedures
+differed for ECRs and ESRs. We adopted different
+approaches for pragmatic and ethical reasons, based on our
+personal experiences of what would be most acceptable to
+these groups; but these differing modes of data collection
+may have impacted the information shared by researcher
+groups (e.g. some ECRs may not have been comfortable
+disclosing sensitive information in a group setting). All
+focus groups and individual interviews were led by an
+ECR to promote consistency in data collection. It is possible, however, that being interviewed by a more junior
+researcher may have made it difficult for ESRs to disclose
+their views and experiences, particularly negative ones.
+
+Pickard et al.
+
+85
+
+Finally, this study is limited to researchers working in the
+United Kingdom. While these findings do align with data
+from Australia (e.g. den Houting et al., 2021), it is important for similar investigations to be undertaken across a
+broader range of countries to examine any specific structural or cultural barriers affecting participatory practices
+(Nicolaidis & Raymaker, 2015).
+To conclude, interviewing ECRs and ESRs provided an
+understanding of the challenges and the opportunities that
+participatory autism research can afford. We call for greater
+appreciation of the flexible nature of participatory research,
+since ‘participation should be viewed as an expansive concept . . . any meaningful attempt to progress along a continuum of participation should be recognized and encouraged’
+(Southby, 2017, p. 128). Participatory research hinges on
+meaningful and trusting relationships with members of the
+autism community; relationships that may take time to
+develop but are essential for respectful autism research that
+aligns with community priorities. Change cannot just be at
+the level of individual researchers. Rather, we need broader
+cultural and structural shifts to enable participatory practices
+to become commonplace. Together, these efforts should foster a research culture that produces high-quality, well-funded
+collaborative research that genuinely makes a difference to
+the lives of autistic people and their allies.
+Funding
+The author(s) disclosed receipt of the following financial support
+for the research, authorship, and/or publication of this article:
+The research presented in this article was possible thanks to a
+British Academy Rising Star Engagement Award, awarded to LC
+(EN160135).
+
+ORCID iDs
+Elizabeth Pellicano
+
+https://orcid.org/0000-0002-7246-8003
+
+Jacquiline den Houting
+
+https://orcid.org/0000-0002-9409-2035
+
+Laura Crane
+
+https://orcid.org/0000-0002-4161-3490
+
+Note
+1.
+
+In this example, focus groups were being discussed as a
+way of consulting with the autistic community to discuss
+research project findings and their relevance to autistic people’s lives.
+
+References
+Arnstein, S. R. (1969). A ladder of citizen participation. Journal
+of the American Institute of Planners, 35(4), 216–224.
+https://doi.org/10.1080/01944366908977225
+Beresford, P., & Croft, S. (1993). Citizen involvement: A practical guide for change. Macmillan.
+Bottema-Beutel, K., Kapp, K. S., Lester, N. J., Sasson, J.
+N., & Hand, N. B. (2021). Avoiding Ableist language:
+Suggestions for autism researchers. Autism in Adulthood, 3,
+18–29. https://doi.org/10.1089/aut.2020.0014
+Bozeman, B., & Gaughan, M. (2011). How do men and women differ in research collaborations? An analysis of the collaborative motives and strategies of academic researchers. Research
+
+Policy, 40(10), 1393–1402. https://doi.org/10.1016/j.respol.
+2011.07.002
+Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative Research in Psychology, 3(2), 77–101.
+https://doi.org/10.1191/1478088706qp063oa
+Braun, V., & Clarke, V. (2013). Successful qualitative research:
+A practical guide for beginners. SAGE.
+Braun, V., & Clarke, V. (2019). Reflecting on reflexive thematic analysis. Qualitative Research in Sport, Exercise
+and Health, 11(4), 589–597. https://doi.org/10.1080/21596
+76X.2019.1628806
+Brown, N., & Leigh, J. (2020). Ableism in Academia: Theorising
+experiences of disabilities and chronic illnesses in higher
+education. UCL Press.
+Chown, N., Robinson, J., Beardon, L., Downing, J., Hughes, L.,
+Leatherland, J., Fox, K., Hickman, L., & MacGregor, D.
+(2017). Improving research about us, with us: A draft framework for inclusive autism research. Disability & Society, 32(5),
+720–734. https://doi.org/10.1080/09687599.2017.1320273
+Common Cause Research. (2018). Building Research
+Collaborations between Universities and Black and
+Minority Ethnic communities. https://cpb-eu-w2.wpmucdn.
+com/blogs.bristol.ac.uk/dist/a/358/files/2018/09/CC_
+Enablers_Barriers_final_sp-2c2f4bh.pdf
+Crane, L., Adams, F., Harper, G., Welch, J., & Pellicano, E.
+(2019). ‘Something needs to change’: Mental health experiences of young autistic adults in England. Autism, 23(2),
+477–493. https://doi.org/10.1177/1362361318757048
+Cusack, J., & Sterry, R. (2016). Your questions: Shaping future
+autism research. Autistica.
+den Houting, J., Higgins, J., Isaacs, K., Mahony, J., & Pellicano,
+E. (2021). ‘I’m not just a guinea pig’: Academic and community perceptions of participatory autism research. Autism,
+25, 148–163.
+den Houting, J., & Pellicano, E. (2019). A portfolio analysis of
+autism research funding in Australia, 2008-2017. Journal of
+Autism and Developmental Disorders, 49(11), 4400–4408.
+https://doi.org/10.1007/s10803-019-04155-1
+Fletcher-Watson, S. (2017, March 24). Autistic voices, and the
+problem of the ‘vocal minority’.. http://dart.ed.ac.uk/vocalminority
+Fletcher-Watson, S., Adams, J., Brook, K., Charman, T., Crane,
+L., Cusack, J., Leekam, S., Milton, D., Parr, J. R., & Pellicano,
+E. (2018). Making the future together: Shaping autism
+research through meaningful participation. Autism, 23(4),
+943–953. https://doi.org/10.1177/1362361318786721
+Fletcher-Watson, S., & Happe, F. (2019). Autism: A new introduction to psychological theory and current debate. Routledge.
+Forsythe, L. P., Carman, K. L., Szydlowski, V., Fayish, L.,
+Davidson, L., Hickam, D. H., . . . Anyanwu, C. U.
+(2019). Patient engagement in research: Early findings
+from the Patient-Centered Outcomes Research Institute.
+Health Affairs, 38(3), 359–367. https://doi.org/10.1377/
+hlthaff.2018.05067
+Gaventa, J., & Cornwall, A. (2008). Power and knowledge. In
+P. Reason & H. Bradbury (Eds.), The SAGE handbook
+of action research (pp. 172–189). SAGE. https://doi.
+org/10.4135/9781848607934
+Goldstein, N. D., Tager-Flusberg, H., & Lee, B. K. (2015).
+Mapping collaboration networks in the world of Autism
+Research. Autism Research, 8(1), 1–8. https://doi.
+org/10.1002/aur.1393
+
+86
+Hickey, D. G. (2018). The potential for coproduction to add
+value to research. Health Expectations, 21(4), 693–694.
+https://doi.org/10.1111/hex.12821
+Holland-Hart, D. M., Addis, S. M., Edwards, A., Kenkre, J. E., &
+Wood, F. (2019). Coproduction and health: Public and clinicians’ perceptions of the barriers and facilitators. Health
+Expectations, 22(1), 93–101. https://doi.org/10.1111/hex.
+12834
+Hollin, G., & Pearce, W. (2019). Autism scientists’ reflections on
+the opportunities and challenges of public engagement: A
+qualitative analysis. Journal of Autism and Developmental
+Disorders, 49(3), 809–818. https://doi.org/10.1007/s10803018-3783-7
+Israel, B. A., Schulz, A. J., Parker, E. A., & Becker, A. B. (1998).
+Review of community-based research: Assessing partnership approaches to improve public health. Annual Review
+of Public Health, 19, 173–202. https://doi.org/10.1146/
+annurev.publhealth.19.1.173
+Jivraj, J., Sacrey, L. A., Newton, A., Nicholas, D., & Zwaigenbaum,
+L. (2014). Assessing the influence of researcher-partner
+involvement on the process and outcomes of participatory
+research in autism spectrum disorder and neurodevelopmental disorders: A scoping review. Autism, 18(7), 782–
+793. https://doi.org/10.1177/1362361314539858
+Kiernan, C. (1999). Participation in research by people with
+learning disability: Origins and issues. British Journal
+of Learning Disabilities, 27(2), 43–47. https://doi.
+org/10.1111/j.1468-3156.1999.tb00084.x
+Little, M., Jordens, C. F., Paul, K., Sayers, E. J., Cruickshank,
+J. A., Stegeman, J., & Montgomery, K. (2002). Discourse
+in different voices: Reconciling N = 1 and N = many.
+Social Science & Medicine, 55(7), 1079–1087. https://doi.
+org/10.1016/s0277-9536(01)00264-7
+Macaulay, A. (2017). Participatory research: What is the history? Has the purpose changed? Family Practice, 34(3),
+256–258.
+Milton, D. E. (2012). On the ontological status of autism: The
+‘double empathy problem’.. Disability & Society, 27(6),
+883–887. https://doi.org/10.1080/09687599.2012.710008
+Minkler, M., & Wallerstein, N. (2011). Community-based participatory research for health: From process to outcomes.
+Jossey-Bass.
+Muhammad, M., Wallerstein, N., Sussman, A. L., Avila, M.,
+Belone, L., & Duran, B. (2015). Reflections on researcher
+identity and power: The impact of positionality on
+Community Based Participatory Research (CBPR) processes and outcomes. Critical Sociology, 41(7–8), 1045–
+1063. https://doi.org/10.1177/0896920513516025
+Ne’eman, A. (2011). Question and answer interview. http://www.
+talkaboutautism.org.uk/page/liveevents/arineeman.cfm
+Nelson, N., & Wright, S. (1995). Power and participatory development: Theory and practice. ITDG Publishing.
+Nicolaidis, C., & Raymaker, D. (2015). Community-based participatory research with communities defined by race, ethnicity, and disability: Translating theory to practice. In H.
+Bradbury (Ed.), The SAGE handbook of action research
+(pp. 167–178). SAGE.
+Nicolaidis, C., Raymaker, D., Kapp, S. K., Baggs, A., Ashkenazy,
+E., McDonald, K., Weiner, M., Maslak, J., Hunter, M., &
+Joyce, A. (2019). The AASPIRE practice-based guidelines
+for the inclusion of autistic adults in research as co-research-
+
+Autism 26(1)
+ers and study participants. Autism, 23(8), 2007–2019.
+https://doi.org/10.1177/1362361319830523
+Nicolaidis, C., Raymaker, D., McDonald, K., Dern, S.,
+Ashkenazy, E., Boisclair, C., Robertson, S., & Baggs, A.
+(2011). Collaboration strategies in nontraditional community-based participatory research partnerships: Lessons
+from an academic−community partnership with autistic selfadvocates. Progress in Community Health Partnerships:
+Research, Education, and Action, 5(2), 143–150. https://
+doi.org/10.1353/cpr.2011.0022
+Nicolaidis, C., Raymaker, D., McDonald, K., Dern, S., Boisclair,
+W. C., Ashkenazy, E., & Baggs, A. (2013). Comparison of
+healthcare experiences in autistic and non-autistic adults:
+A cross-sectional online survey facilitated by an academiccommunity partnership. Journal of General Internal
+Medicine, 28(6), 761–769. https://doi.org/10.1007/s11606012-2262-7
+Office of Autism Research Coordination, National Institute
+of Mental Health, on behalf of the Interagency Autism
+Coordinating Committee. (2019). 2016 IACC autism spectrum disorder research: Portfolio analysis report. https://
+iacc.hhs.gov/publications/portfolio-analysis/2016/
+Oliver, K., Kothari, A., & Mays, N. (2019). The dark side of
+coproduction: Do the costs outweigh the benefits for health
+research? Health Research Policy and Systems, 17(1),
+Article 33. https://doi.org/10.1186/s12961-019-0432-3
+Orben, A. (2019). A journal club to fix science. Nature, 573, 465.
+https://doi.org/10.1038/d41586-019-02842-8
+Ottmann, G., Laragy, C., Allen, J., & Feldman, P. (2011).
+Coproduction in practice: Participatory action research to
+develop a model of community aged care. Systemic Practice
+and Action Research, 24, 413–427. https://doi.org/10.1007/
+s11213-011-9192-x
+Parsons, S., Charman, T., Faulkner, R., Ragan, J., Wallace, S.,
+& Wittemeyer, K. (2013). Commentary – Bridging the
+research and practice gap in autism: The importance of
+creating research partnerships with schools. Autism, 17(3),
+268–280. https://doi.org/10.1177/1362361312472068
+Pellicano, E., Crane, L., Gaudion, K., & the Shaping Autism
+Research Team. (2017). Participatory autism research: A
+starter pack. UCL Institute of Education.
+Pellicano, E., Dinsmore, A., & Charman, T. (2014a). Views on
+researcher-community engagement in autism research in
+the United Kingdom: A mixed-methods study. PLOS ONE,
+9(10), Article e109946. https://doi.org/10.1371/journal.
+pone.0109946
+Pellicano, E., Dinsmore, A., & Charman, T. (2014b). What
+should autism research focus upon? Community views and
+priorities from the United Kingdom. Autism, 18(7), 756–
+770. https://doi.org/10.1177/1362361314529627
+Pellicano, E., Lawson, W., Hall, G., Mahony, J., Lilley, R.,
+Davis, C., . . . Yudell, M. (2020). Documenting the untold
+histories of late-diagnosed autistic adults: A qualitative study protocol using oral history methodology. BMJ
+Open, 10, Article e037968. https://doi.org/10.1136/bmjopen-2020-037968
+Pellicano, E., & Stears, M. (2011). Bridging autism, science and
+society: Moving towards an ethically-informed approach to
+autism research. Autism Research, 4, 271–282.
+Price, A., Schroter, S., Snow, R., Hicks, M., Harmston, R.,
+Staniszewska, S., Parker, S., & Richards, T. (2018).
+
+Pickard et al.
+Frequency of reporting on patient and public involvement
+(PPI) in research studies published in a general medical journal: A descriptive study. BMJ Open, 8(3), Article
+e020452. https://doi.org/10.1136/bmjopen-2017-020452
+Raymaker, D., & Nicolaidis, C. (2013). Participatory research
+with autistic communities: Shifting the system. In J.
+Davidson & M. Orsini (Eds.), Worlds of Autism: Across
+the Spectrum of Neurological Difference (pp. 169–190).
+University of Minnesota Press.
+Redman, S., Greenhalgh, T., Adedokun, L., Staniszewska, S., &
+Denegri, S. (2021). Co-production of knowledge: The future.
+BMJ, 372, Article n434. https://doi.org/10.1136/bmj.n434
+Rose, D. (2018). Participatory research: real or imagined. Social
+Psychiatry and Psychiatric Epidemiology, 53(8), 765–771.
+https://doi.org/10.1007/s00127-018-1549-3
+Sanders, E. B. N. (2002). From user-centred to participatory
+design approaches. In J. Frascara (Ed.), Design and the
+social sciences: Making connections (pp. 1–8). Taylor &
+Francis.
+Southby, K. (2017). Reflecting on (the challenge of) conducting participatory research as a research-degree student.
+Research for All, 1(1), 128–142. https://doi.org/10.18546/
+RFA.01.1.10
+Tritter, Q. J., & McCallum, A. (2006). The snakes and ladders
+of user involvement: Moving beyond Arnstein. Health
+Policy, 76(2), 156–168. https://doi.org/10.1016/j.healthpol.2005.05.008
+Vincent, J. (2019). It’s the fear of the unknown: Transition from
+higher education for young autistic adults. Autism, 23(6),
+1575–1585. https://doi.org/10.1177/1362361318822498
+Wallerstein, N., Duran, B., Oetzel, J., & Minkler, M. (2017).
+Community-based participatory research for health (3rd
+ed.). Jossey Bass.
+Williams, O., Sarre, S., Papoulias, S., Knowles, S., Robert, G.,
+Beresford, P., Rose, D., Carr, S., Kaur, M., & Palmer, V.
+(2020). Lost in the shadows: Reflections on the dark side
+of co-production. Health Research Policy and Systems,
+18(1), Article 43. https://doi.org/10.1186/s12961-02000558-0
+Woolley, J. P., McGowan, M. L., Teare, H. J. A., Coathup,
+V., Fishman, J. R., Settersten, R. A., Sterckx, S., Kaye,
+J., & Juengst, E. T. (2016). Citizen science or scientific
+citizenship? Disentangling the uses of public engagement
+rhetoric in national research initiatives. BMC Medical
+Ethics, 17, Article 33. https://doi.org/10.1186/s12910016-0117-1
+
+87
+3.
+
+What do you think are the benefits of doing participatory autism research?
+4. What do you think are the challenges of doing participatory autism research?
+5. Can you tell me a bit about your overall experiences,
+if any, of taking part in participatory autism research?
+We would like to hear about any good experiences,
+as well as any not so good experiences.
+6. Can anyone tell us about the barriers that prevent
+you from doing participatory autism research?
+7. Do you feel confident taking part in participatory
+research?
+8. Are there any areas of participatory research where
+you do not feel as confident?
+9. What do you think could be done to help build your
+confidence?
+10. For those of you who have taken part in participatory autism research, how did you go about involving the autism community in your research?
+11. For those of you who have not taken part in participatory autism research, how would you go
+about involving the autism community in your
+research?
+12. What training would you like to receive to help
+support you with your participatory autism
+research?
+13. What support would you like to receive to help
+with your participatory autism research?
+Established researcher (individual) interview schedule
+1.
+2.
+
+3.
+4.
+
+5.
+
+Appendix 1
+Interview schedules
+Early career researcher (focus group) interview schedule
+1.
+2.
+
+First, I would like to start by asking you all, what
+do you think the term ‘participatory research’
+means?
+It seems that we are hearing more and more about
+participatory research with regard to autism –
+would you all agree? Why do you think that is?
+
+6.
+7.
+8.
+
+Tell me a bit about yourself.
+What does the term, ‘participatory research’, mean
+to you? It seems that we are hearing more and more
+about participatory research with regard to autism
+– would you agree? Why do you think that is?
+When did you first become involved in participatory autism research? Why did you decide to get
+involved in participatory autism research?
+What do you think are the overall benefits of taking
+part in participatory autism research? What do you
+think are the overall challenges of taking part in
+participatory autism research?
+Can you tell me a bit about your overall experience
+of taking part in participatory autism research?
+Tell me about a time when you were involved in a
+participatory autism research project and it went
+well?
+Please can you tell me about a time when you had
+an experience of taking part in a participatory
+research project that did not go quite so well?
+Do you have any advice for researchers, especially
+those at the early stages of their career, who might
+want to involve the autism community in their
+research in a more meaningful way?
+
+

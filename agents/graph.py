@@ -16,6 +16,9 @@ class ResearchState(TypedDict):
     critique: str
     revision_count: int
     is_approved: bool
+    completeness_score: int
+    accuracy_score: int
+    clarity_score: int
 
 def should_continue(state: ResearchState) -> str:
     """Route based on critic's verdict and revision count."""

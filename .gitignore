@@ -208,3 +208,6 @@ __marimo__/
 
 
 week-plan.md
+
+chroma_db/
+data/*.pdf
