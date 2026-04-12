@@ -2,7 +2,7 @@ import sys
 sys.path.append("..")
 
 from config.settings import get_llm
-from graph import ResearchState
+from agents.state import ResearchState
 from rag.retriever import get_retriever
 
 def researcher_node(state: ResearchState) -> dict:

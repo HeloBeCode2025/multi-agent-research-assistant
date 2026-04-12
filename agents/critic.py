@@ -5,7 +5,7 @@ from pydantic import BaseModel, Field
 from langchain_core.prompts import ChatPromptTemplate
 
 from config.settings import get_llm
-from graph import ResearchState
+from agents.state import ResearchState
 
 class CritiqueResult(BaseModel):
     """Structured output from the Critic agent."""

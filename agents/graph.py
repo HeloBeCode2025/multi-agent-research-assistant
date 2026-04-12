@@ -1,24 +1,13 @@
 import sys
 sys.path.append("..")
 
-from typing import TypedDict, Annotated, List
 from langgraph.graph import StateGraph, START, END
-from langgraph.graph.message import add_messages
 
+from agents.state import ResearchState
 from agents.researcher import researcher_node
 from agents.writer import writer_node
 from agents.critic import critic_node
 
-class ResearchState(TypedDict):
-    question: str
-    research_notes: Annotated[list, add_messages]
-    draft: str
-    critique: str
-    revision_count: int
-    is_approved: bool
-    completeness_score: int
-    accuracy_score: int
-    clarity_score: int
 
 def should_continue(state: ResearchState) -> str:
     """Route based on critic's verdict and revision count."""

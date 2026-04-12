@@ -2,7 +2,7 @@ import sys
 sys.path.append("..")
 
 from config.settings import get_llm
-from graph import ResearchState
+from agents.state import ResearchState
 
 def writer_node(state: ResearchState) ->dict:
     llm = get_llm()
